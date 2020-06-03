@@ -58,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591168219388</updated>
-      <workItem from="1591168230835" duration="3821000" />
+      <workItem from="1591168230835" duration="5204000" />
     </task>
     <servers />
   </component>
@@ -70,10 +70,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="creat Interface Observable.java, Interface Observer,class ObservableImpl.java" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="397" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1591175652818">
+    <state x="397" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1591179724222">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state x="397" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1360.738/1360.-313.1920.1050@0.0.1360.738" timestamp="1591175652818" />
+    <state x="397" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1360.738/1360.-313.1920.1050@0.0.1360.738" timestamp="1591179724222" />
     <state x="128" y="0" key="CommitChangelistDialog2" timestamp="1591177354068">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
