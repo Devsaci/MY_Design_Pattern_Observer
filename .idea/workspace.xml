@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a2be0c8-cfd8-4939-834f-aaaf8f551c2d" name="Default Changelist" comment="creat Interface Observable.java, Interface Observer,class ObservableImpl.java">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Observable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObservableImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Observer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObservableImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObservableImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591168219388</updated>
-      <workItem from="1591168230835" duration="3180000" />
+      <workItem from="1591168230835" duration="3821000" />
     </task>
     <servers />
   </component>
