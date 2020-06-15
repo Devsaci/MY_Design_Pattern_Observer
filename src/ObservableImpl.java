@@ -1,9 +1,9 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class ObservableImpl extends Observable {
-    private int state = 10;
-    private List<Observer> observers = new ArrayList<>();
+public class ObservableImpl implements Observable {
+    private int state = 10;// stat of Observable
+    private List<Observer> observers = new ArrayList<>();// Relation One to Many
 
     @Override
     public void subscribe(Observer observer) {
@@ -23,7 +23,11 @@ public class ObservableImpl extends Observable {
     }
 
     public void setState(int state) {
-        this.state = state;
-        this.notifyObservers();
+        this.state = state;// state change
+        this.notifyObservers();//notification du changement de l'état de Observable
+    }
+
+    public int getState() {
+        return state;
     }
 }
